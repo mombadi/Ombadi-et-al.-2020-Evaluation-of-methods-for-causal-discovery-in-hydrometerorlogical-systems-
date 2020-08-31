@@ -1,5 +1,8 @@
 # Synthetic-Data-_-Hydrologic-Bucket-Model
-This dataset is a synthetic data generated from a hydrologic bucket model for the purpose of evaluation and comparison of causal discovery algorithms. The data include four variables: rainfall (R), soil moisture (S), interflow (I) and runoff (Q). The analysis using this data is provided in the article "Evaluation of methods for causal discovery in hydrometeorological systems". 
+This dataset is a synthetic data generated from a hydrologic bucket model for the purpose of evaluation and comparison of causal discovery algorithms. The data include four variables: rainfall (R), soil moisture (S), interflow (I) and runoff (Q). 
+
+The analysis using this data is provided in the article:
+Ombadi, M., Nguyen, P., Sorooshian, S., & Hsu, K. L. (2020). Evaluation of methods for causal discovery in hydrometeorological systems. Water Resources Research, 56(7), e2020WR027251. https://doi.org/10.1029/2020WR027251
 
 There are three types of data matrices:
 
